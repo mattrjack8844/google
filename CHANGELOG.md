@@ -1,5 +1,23 @@
 # Changelog
 
+## [1.42.0](https://github.com/googleapis/google-cloud-java/compare/v1.41.0...v1.42.0) (2024-08-01)
+
+
+### Features
+
+* [document-ai] A new field `imageless_mode` is added to message `.google.cloud.documentai.v1.ProcessRequest` ([4aae553](https://github.com/googleapis/google-cloud-java/commit/4aae5537bed9ddb992a85749aa1199b475c2db87))
+* [parallelstore] add file_stripe_level and directory_stripe_level fields to Instance ([4aae553](https://github.com/googleapis/google-cloud-java/commit/4aae5537bed9ddb992a85749aa1199b475c2db87))
+
+
+### Bug Fixes
+
+* **deps:** update dependency com.google.cloud:google-cloud-storage to v2.41.0 ([#11049](https://github.com/googleapis/google-cloud-java/issues/11049)) ([6b49114](https://github.com/googleapis/google-cloud-java/commit/6b491143348c3273aad9bdb02c9a98130f696c46))
+
+
+### Documentation
+
+* [datacatalog] mark DataplexTransferStatus.MIGRATED as deprecated ([4aae553](https://github.com/googleapis/google-cloud-java/commit/4aae5537bed9ddb992a85749aa1199b475c2db87))
+
 ## [1.41.0](https://github.com/googleapis/google-cloud-java/compare/v1.40.0...v1.41.0) (2024-07-31)
 
 
